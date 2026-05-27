@@ -1,0 +1,6 @@
+{
+  "name": "Studio Metz",
+  "description": "An interactive, ultra-premium minimalist digital portfolio and architectural design playground built for Studio Metz, featuring daylight and obsidian modes, pixel coordinate HUDs, and modular grid controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
